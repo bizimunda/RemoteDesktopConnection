@@ -1,0 +1,14 @@
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\bin\Debug\RemoteDesktopConnection.exe.config
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\bin\Debug\RemoteDesktopConnection.exe
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\bin\Debug\RemoteDesktopConnection.pdb
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\obj\Debug\RemoteDesktopConnection.csprojResolveAssemblyReference.cache
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\obj\Debug\RemoteDesktopConnection.csproj.ResolveComReference.cache
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\obj\Debug\RemoteDesktopConnection.Form1.resources
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\obj\Debug\RemoteDesktopConnection.Properties.Resources.resources
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\obj\Debug\RemoteDesktopConnection.csproj.GenerateResource.Cache
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\obj\Debug\RemoteDesktopConnection.exe
+C:\Users\u5980\Documents\visual studio 2013\Projects\RemoteDesktopConnection\RemoteDesktopConnection\obj\Debug\RemoteDesktopConnection.pdb
